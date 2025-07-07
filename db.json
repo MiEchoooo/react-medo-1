@@ -1,0 +1,48 @@
+{
+  "list": [
+    {
+      "rpid": 1,
+      "user": {
+        "uid": "123456",
+        "avatar": "./src/images/lin.jpg",
+        "uname": "林俊杰"
+      },
+      "content": "落叶的位置，谱出一首诗",
+      "ctime": "2025/07/04 19:20",
+      "like": 506
+    },
+    {
+      "rpid": 2,
+      "user": {
+        "uid": "020202",
+        "avatar": "./src/images/zhou.jpg",
+        "uname": "周杰伦"
+      },
+      "content": "还记得你说家是唯一的城堡",
+      "ctime": "2023/02/08 9:50",
+      "like": 494
+    },
+    {
+      "rpid": 3,
+      "user": {
+        "uid": "111111",
+        "avatar": "./src/images/xue.jpg",
+        "uname": "薛之谦"
+      },
+      "content": "我口袋只剩玫瑰一片",
+      "ctime": "020/07/17 15:21",
+      "like": 717
+    },
+    {
+      "rpid": 4,
+      "user": {
+        "uid": "2023214404",
+        "avatar": "./src/images/wuxidixi.jpg",
+        "uname": "米姝萱"
+      },
+      "content": "删掉我",
+      "ctime": "2023/12/19 18:20",
+      "like": 156
+    }
+  ]
+}
